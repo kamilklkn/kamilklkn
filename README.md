@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello There! 👋
+UI/UX Designer & Developer from Istanbul — I create simple, beautiful and easy experiences for users.
+
+🎉  Available for Work
+
+[kamilklkn.com](http://kamilklkn.com/) - [Mail](mailto:hi@kamilklkn.com) - [Twitter](https://twitter.com/kamilklkn) - [Linkedin](https://www.linkedin.com/in/kamilklkn/)
+
 
 <!--
 **kamilklkn/kamilklkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
