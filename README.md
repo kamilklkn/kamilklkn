@@ -12,7 +12,7 @@ Hello, this is **Kamil Kalkan** 👋
 
 🎉  Available for Work 👇🏻
 
-🌱 &nbsp;&nbsp; [kamilklkn.com](https://www.kamilklkn.com) - 📫 &nbsp;&nbsp; [Mail](mailto:hi@kamilklkn.com)
+🌱 &nbsp;&nbsp; [kamilklkn.com](https://www.kamilklkn.com)&nbsp; - &nbsp;📫 &nbsp;&nbsp; [Mail](mailto:hi@kamilklkn.com)
 
 <!--
 **kamilklkn/kamilklkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
