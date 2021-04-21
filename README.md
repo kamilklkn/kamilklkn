@@ -1,10 +1,18 @@
-### Hello There! 👋
-UI/UX Designer & Developer from Istanbul — I create simple, beautiful and easy experiences for users.
+###
+Hello, this is **Kamil Kalkan** 👋
 
-🎉  Available for Work
+**UI/UX Designer & Developer** from Istanbul — I create simple, beautiful and easy experiences for users. I love **open source development** and I build things on my GitHub profile (here).
 
-[kamilklkn.com](http://kamilklkn.com/) - [Mail](mailto:hi@kamilklkn.com) - [Twitter](https://twitter.com/kamilklkn) - [Linkedin](https://www.linkedin.com/in/kamilklkn/)
+- 💻   [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/kamilklkn)
+- 🏹   [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/kamilklkn)
+- 📝   [Detailed research case studies (**Medium**)](https://medium.com/@kamilklkn)
+- 🎨   [Work in progress (**Dribbble**)](https://dribbble.com/kamilklkn)
+- 💬   [Random thoughts (**Twitter**)](https://twitter.com/kamilklkn)
+- 📸   [Photography is my passion (**Instagram**)](https://www.instagram.com/kamilklkn/)
 
+🎉  Available for Work 👇🏻
+
+[Mail](mailto:hi@kamilklkn.com)
 
 <!--
 **kamilklkn/kamilklkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
