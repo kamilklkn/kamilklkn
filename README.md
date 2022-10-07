@@ -10,7 +10,7 @@ Hello, this is **Kamil Kalkan** 👋
 - 💬  &nbsp;&nbsp; [ Random thoughts (**Twitter**)](https://twitter.com/kamilklkn)
 - 📸  &nbsp;&nbsp; [ Photography is my passion (**Instagram**)](https://www.instagram.com/kamilklkn/)
 
-🔭  &nbsp;&nbsp; [ I’m currently working on moneytolia (**Instagram**)](https://www.moneytolia.com/)
+🔭  &nbsp;&nbsp; [ I’m currently working on (**moneytolia**)](https://www.moneytolia.com/)
 🌱 &nbsp;&nbsp; [kamilklkn.com](https://www.kamilklkn.com)&nbsp; - &nbsp;📫 &nbsp;&nbsp; [Mail](mailto:hi@kamilklkn.com)
 
 <!--
